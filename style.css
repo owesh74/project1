@@ -193,7 +193,7 @@ font-size: xx-small ;
     align-items: center;
     gap: 5px;
     background-color: black;
-    height: 10px;
+    height: 25px;
 }
 .img1{
     display: flex;
